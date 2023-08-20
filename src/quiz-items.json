@@ -1,5 +1,6 @@
 [
   {
+    "quiz": "quiz-1",
     "id": "id-1",
     "team": "milan",
     "score": "15",
@@ -7,35 +8,40 @@
     "color": "rosso-neri"
   },
   {
-    "id": "id-1",
+    "quiz": "quiz-2",
+    "id": "id-2",
     "team": "inter",
     "score": "15",
     "titles": "90",
     "color": "rosso-neri"
   },
   {
-    "id": "id-2",
+    "quiz": "quiz-3",
+    "id": "id-3",
     "team": "juve",
     "score": "15",
     "titles": "90",
     "color": "rosso-neri"
   },
   {
-    "id": "id-3",
+    "quiz": "quiz-4",
+    "id": "id-4",
     "team": "roma",
     "score": "15",
     "titles": "90",
     "color": "rosso-neri"
   },
   {
-    "id": "id-4",
+    "quiz": "quiz-5",
+    "id": "id-5",
     "team": "milan",
     "score": "15",
     "titles": "90",
     "color": "rosso-neri"
   },
   {
-    "id": "id-5",
+    "quiz": "quiz-6",
+    "id": "id-6",
     "team": "lazio",
     "score": "15",
     "titles": "90",
